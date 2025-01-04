@@ -2,10 +2,6 @@
 <h2>A 3rd year Computer Engineering student at <a href="https://www.thapar.edu">TIET, Patiala</a>, passionate about coding, open-source contributions, and emerging technologies.</h2>
 
 <div style="display:inline-block">
-  <img src="https://komarev.com/ghpvc/?username=suryarathee&label=Profile%20views&color=0eed4a&style=for-the-badge" alt="Surya's profile views" />
-  <a href="https://wakatime.com/@6c4560a5-693d-422a-a2c0-518eec177837">
-    <img src="https://wakatime.com/badge/user/6c4560a5-693d-422a-a2c0-518eec177837.svg?style=for-the-badge" alt="Coding Hours since May 2023" />
-  </a>
   <a href="https://www.linkedin.com/in/surya-rathee-8b0a51253/%7C">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>

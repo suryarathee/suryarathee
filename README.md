@@ -13,14 +13,7 @@
   </a>
 </div>
 
----
 
-## 🌱 Something About Me:
-- 🧑‍💻 .
-- 🚀 
-- 🎨 I 
-
----
 
 ## 🛠️ Skills & Technologies:
 
@@ -75,12 +68,6 @@
   <img src="https://github.com/user-attachments/assets/37f8d0f2-0dff-4cca-a8e6-c9baeecaed84" height=37/>
 </a>&ensp;
 
----
 
-## 🔗 Connect With Me:
-- 🌐 **Portfolio**:  
-- 📫 **Email**: srathee_be22@thapar.edu 
-
----
 
 

@@ -77,33 +77,10 @@
 
 ---
 
-## 📊 Stats:
-
-<p align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=suryarathee&show_icons=true&theme=gotham" alt="GitHub Stats" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=suryarathee&theme=gotham" alt="Streak Stats" /></td>
-    </tr>
-  </table>
-</p>
-
-<p align="center">
-  <a href="https://github.com/suryarathee">
-    <img src="https://github-profile-trophy.vercel.app/?username=suryarathee&row=1&column=7&theme=darkhub" alt="GitHub Trophies">
-  </a>
-</p>
-
----
-
 ## 🔗 Connect With Me:
 - 🌐 **Portfolio**:  
 - 📫 **Email**: srathee_be22@thapar.edu 
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryarathee/suryarathee/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryarathee/suryarathee/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid animation" src="https://raw.githubusercontent.com/suryarathee/suryarathee/output/github-contribution-grid-snake.svg">
-</picture>
+

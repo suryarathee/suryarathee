@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Surya Rathee👋🏻</h1>
-<h2>A 3rd year Computer Engineering student at <a href="https://www.thapar.edu">TIET, Patiala</a>, passionate about coding, open-source contributions, and emerging technologies.</h2>
+<h2>Pre-Final year Computer Engineering student at <a href="https://www.thapar.edu">TIET, Patiala</a>, </h2>
 
 <div style="display:inline-block">
   <a href="https://www.linkedin.com/in/surya-rathee-8b0a51253/%7C">

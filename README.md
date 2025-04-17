@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Surya Rathee👋🏻</h1>
 <h2>About Me</h2>
-<p>I am Surya Rathee Computer Engineering undergrad at TIET , India. Passinate about Machine Learning and Finance, I specialize in Data Science and Machine Learning.
-  I love building and tinkering with Neural Network. Fuled with innovation dedicated to providing solutions to real life problems.
+<p>I am Surya Rathee Computer Engineering undergrad at TIET , India. Passionate about Machine Learning and Finance, I specialize in Data Science and Machine Learning.
+  I love building and tinkering with Neural Network. Fueled with innovation dedicated to providing solutions to real life problems.
 </p>
 
 <div style="display:inline">
